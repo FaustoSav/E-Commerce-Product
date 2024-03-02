@@ -1,7 +1,7 @@
   # E-Commerce-Product - Frontend Mentor Challenge
 [DEMO](https://e-commerce-product-fs.vercel.app/)
       
-Used technologies:
+Technologies:
   - React
   - Typescript
   - Tailwind
